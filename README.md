@@ -187,12 +187,12 @@ I'm an ideator looking forward to solving real-world problems with the help of t
   />
 </p>
 
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=lordshashank&theme=dark&background=000000"
     alt="lordshashank"
   />
-</p>
+</p> -->
 
 ---
