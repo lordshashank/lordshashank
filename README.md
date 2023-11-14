@@ -38,8 +38,9 @@ I'm an ideator looking forward to solving real-world problems with the help of t
   <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">Filecoin Solidity</a> - Contributer</li>
   <li>🚀<a href="https://twitter.com/EastoreWeb3">Filecoin Micrograntee</a></li>
   <li>🏆<a href="https://github.com/lordshashank/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
-  <li>🚀<a href="https://github.com/BlocSoc-iitr">BlocSoc Society IITR</a> - Executive Member</li>
     <li>🏅<a href="https://github.com/lordshashank/SatStream">SatStream</a> - Open Data Hack finalist project</li>
+    <li>🏆<a href="https://github.com/BlocSoc-iitr/DappHack">DappHack</a> - EthOnline Winning </li>
+    <li>⚡<a href="https://github.com/BlocSoc-iitr">BlocSoc Society IITR</a> - Executive Member</li>
 </ul>
 </p>
 
