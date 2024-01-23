@@ -31,19 +31,26 @@ I'm an ideator looking forward to solving real-world problems with the help of t
 
 <h3 align="left">My work</h3>
 <p>
-  I have worked on some great ideas, just give them a look once.
+  I have worked on some nice ideas, just give them a look once.
   <ul style="font-size: 20px;">
   <li>⚙️ Building <a href="https://github.com/lordshashank/Eastore-Filecoin">Eastore</a> - EthforAll winning project</li>
   <li>🏅<a href="https://github.com/lordshashank/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
-  <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">Filecoin Solidity</a> - Contributer</li>
+
   <li>🚀<a href="https://twitter.com/EastoreWeb3">Filecoin Micrograntee</a></li>
   <li>🏆<a href="https://github.com/lordshashank/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
     <li>🏅<a href="https://github.com/lordshashank/SatStream">SatStream</a> - Open Data Hack finalist project</li>
-    <li>🏆<a href="https://github.com/BlocSoc-iitr/DappHack">DappHack</a> - EthOnline Winning </li>
+    <li>🏆<a href="https://github.com/BlocSoc-iitr/DappHack">DappHack</a> - EthOnline Winning Project</li>
     <li>⚡<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
 </ul>
 </p>
-
+<p>
+I love exploring interesting opensource projects. I have also contributed to some popular opensource projects as following - 
+  <ul style="font-size: 20px;">
+  <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">filecoin-solidity</a></li>
+  <li>⚡<a href="https://github.com/filecoin-project/ref-fvm">ref-fvm</a></li>
+      <li>⭐<a href="https://github.com/paradigmxyz/reth">reth</a></li>
+</ul>
+</p>
 ---
 
 <h3 align="left">Connect with me </h3>
