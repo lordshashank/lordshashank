@@ -48,6 +48,7 @@ I love exploring interesting opensource projects. I have also contributed to som
   <ul style="font-size: 20px;">
   <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">filecoin-solidity</a></li>
   <li>⚡<a href="https://github.com/filecoin-project/ref-fvm">ref-fvm</a></li>
+    <li>⚙️<a href="https://github.com/antoyo/rustc_codegen_gcc">rustc-codegen-gcc</a></li>
       <li>⭐<a href="https://github.com/paradigmxyz/reth">reth</a></li>
 </ul>
 </p>
