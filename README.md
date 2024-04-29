@@ -31,25 +31,25 @@ I'm an ideator looking forward to solving real-world problems with the help of t
 
 <h3 align="left">My work</h3>
 <p>
-  I have worked on some nice ideas, just give them a look once.
-  <ul style="font-size: 20px;">
+  I am an executive member of <a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a>.
+<!--   <ul style="font-size: 20px;">
   <li>⚙️ Building <a href="https://github.com/lordshashank/Eastore-Filecoin">Eastore</a> - EthforAll winning project</li>
   <li>🏅<a href="https://github.com/lordshashank/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
-
   <li>🚀<a href="https://twitter.com/EastoreWeb3">Filecoin Micrograntee</a></li>
   <li>🏆<a href="https://github.com/lordshashank/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
     <li>🏅<a href="https://github.com/lordshashank/SatStream">SatStream</a> - Open Data Hack finalist project</li>
     <li>🏆<a href="https://github.com/BlocSoc-iitr/DappHack">DappHack</a> - EthOnline Winning Project</li>
     <li>⚡<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
-</ul>
+</ul> -->
 </p>
 <p>
-I love exploring interesting opensource projects. I have also contributed to some popular opensource projects as following - 
+I love exploring interesting opensource projects. I have worked on some popular opensource projects as following - 
   <ul style="font-size: 20px;">
-  <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">filecoin-solidity</a></li>
-  <li>⚡<a href="https://github.com/filecoin-project/ref-fvm">ref-fvm</a></li>
+<!--   <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">filecoin-solidity</a></li> -->
     <li>⚙️<a href="https://github.com/antoyo/rustc_codegen_gcc">rustc-codegen-gcc</a></li>
-      <li>⭐<a href="https://github.com/paradigmxyz/reth">reth</a></li>
+    <li> ⭐<a href="https://github.com/rust-bitcoin/rust-bitcoin">rust-bitcoin</a></li>
+    <li>⚡<a href="https://github.com/filecoin-project/ref-fvm">ref-fvm</a></li>
+<!--       <li>⭐<a href="https://github.com/paradigmxyz/reth">reth</a></li> -->
 </ul>
 </p>
 ---
@@ -181,13 +181,13 @@ I love exploring interesting opensource projects. I have also contributed to som
 ---
 
 <h3 align="left">General</h3>
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=lordshashank&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"
     alt="lordshashank"
   />
-</p>
+</p> -->
 
 <p>
   &nbsp;<img
