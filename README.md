@@ -33,13 +33,16 @@ I'm an ideator looking forward to solving real-world problems with the help of t
 <p>
  I have worked on some nice ideas. My work include:
   <ul style="font-size: 20px;">
-  <li>⚙️ Building <a href="https://github.com/lordshashank/Eastore-Filecoin">Eastore</a> - EthforAll winning project</li>
-  <li>🏅<a href="https://github.com/lordshashank/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
-  <li>🚀<a href="https://twitter.com/EastoreWeb3">Filecoin Micrograntee</a></li>
-  <li>🏆<a href="https://github.com/lordshashank/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
+  <li>⚙️ Building <a href="https://github.com/Eastore-project">Eastore</a> - EthforAll winning project - <a  FIL RetroPGF Recipient</li>
+  <li> &nbsp; ₿ <a href= "https://www.summerofbitcoin.org">  Summer of Bitcoin </a> scholar 2024 - Working on <a href="https://github.com/Davidson-Souza/Floresta"> Floresta </a> </li>
+  <li> 🚀<a href="https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e"> Protocol Labs Dev Guild </a> Fellow </li>
+      <li>⚡<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
+   <li>🏅<a href="https://github.com/lordshashank/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
+  <li>⚙️<a href="https://github.com/filecoin-project/devgrants/issues/1535">Filecoin Micrograntee</a></li>
     <li>🏅<a href="https://github.com/lordshashank/SatStream">SatStream</a> - Open Data Hack finalist project</li>
-    <li>🏆<a href="https://github.com/BlocSoc-iitr/DappHack">DappHack</a> - EthOnline Winning Project</li>
-    <li>⚡<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
+    <li>⚡<a href="https://github.com/BlocSoc-iitr/DappHack">DappHack</a> - EthOnline Winning Project</li>
+  <li>🏆<a href="https://github.com/lordshashank/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
+
 </ul>
 </p>
 <p>
@@ -49,8 +52,10 @@ I love exploring interesting opensource projects. I have worked on some popular 
     <li>⚡<a href="https://github.com/filecoin-project/ref-fvm">ref-fvm</a></li>
       <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">filecoin-solidity</a></li>
     <li>🚀<a href="https://github.com/0xSpaceShard/starknet-devnet-rs">starknet-devnet-rs</a></li>
-        <li>⚡<a href="https://github.com/rust-bitcoin/rust-bitcoin">rust-bitcoin</a></li>
-      <li>⭐<a href="https://github.com/paradigmxyz/reth">reth</a></li>
+         <li>⭐<a href="https://github.com/paradigmxyz/reth">reth</a></li>
+        <li>⚡<a href="https://github.com/rust-bitcoin/rust-bitcoin">rust-bitcoin </a> </li>
+        <li> &nbsp; ₿ <a href="https://github.com/Davidson-Souza/Floresta"> Floresta </a> </li>
+
 </ul>
 </p>
 ---
