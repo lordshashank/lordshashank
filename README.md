@@ -33,8 +33,9 @@ I'm an ideator looking forward to solving real-world problems with the help of t
 <p>
  I have worked on some nice ideas. My work include:
   <ul style="font-size: 20px;">
-  <li>⚙️ Building <a href="https://github.com/Eastore-project">Eastore</a> - EthforAll winning project - <a href="https://www.fil-retropgf.io/"> FIL RetroPGF</a> Recipient</li>
-  <li> &nbsp; ₿ <a href= "https://www.summerofbitcoin.org">  Summer of Bitcoin </a> scholar 2024 - Working on <a href="https://github.com/Davidson-Souza/Floresta"> Floresta </a> </li>
+  <li>⚙️ Building <a href="https://eastore.xyz">Eastore</a> - EthforAll winning project - <a href="https://www.fil-retropgf.io/"> FIL RetroPGF</a> Recipient</li>
+     <li>⚡ Building <a href="https://privote.live">Privote</a> - EthSingapore winning project - <a href="https://ethereum.foundation">Ethereum Foundation (PSE)</a> grantee </li>
+  <li> &nbsp; ₿ <a href= "https://www.summerofbitcoin.org">  Summer of Bitcoin </a> scholar 2024 - Worked on <a href="https://github.com/Davidson-Souza/Floresta"> Floresta </a> </li>
   <li> 🚀<a href="https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e"> Protocol Labs Dev Guild </a> Fellow </li>
       <li>⚡<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
    <li>🏅<a href="https://github.com/lordshashank/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
