@@ -38,6 +38,7 @@ I'm an ideator looking forward to solving real-world problems with the help of t
   <li> &nbsp; ₿ <a href= "https://www.summerofbitcoin.org">  Summer of Bitcoin </a> scholar 2024 - Worked on <a href="https://github.com/Davidson-Souza/Floresta"> Floresta </a> </li>
   <li> 🚀<a href="https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e"> Protocol Labs Dev Guild </a> Fellow </li>
       <li>⚡<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
+     <li>🏆<a href="https://github.com/qweb-project">Qweb</a> - ETHGlobalNYC winning project</li>
    <li>🏅<a href="https://github.com/lordshashank/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
   <li>⚙️<a href="https://github.com/filecoin-project/devgrants/issues/1535">Filecoin Micrograntee</a></li>
     <li>🏅<a href="https://github.com/lordshashank/SatStream">SatStream</a> - Open Data Hack finalist project</li>
@@ -50,12 +51,14 @@ I'm an ideator looking forward to solving real-world problems with the help of t
 I love exploring interesting opensource projects. I have worked on some popular opensource projects as following - 
   <ul style="font-size: 20px;">
     <li>⚙️<a href="https://github.com/antoyo/rustc_codegen_gcc">rustc-codegen-gcc</a></li>
+           <li> &nbsp; ₿ <a href="https://github.com/Davidson-Souza/Floresta"> Floresta </a> </li>
+           <li> &nbsp; 🚀 <a href="https://github.com/privacy-scaling-explorations/maci"> MACI </a> </li>
     <li>⚡<a href="https://github.com/filecoin-project/ref-fvm">ref-fvm</a></li>
       <li>💡<a href="https://github.com/filecoin-project/filecoin-solidity">filecoin-solidity</a></li>
     <li>🚀<a href="https://github.com/0xSpaceShard/starknet-devnet-rs">starknet-devnet-rs</a></li>
          <li>⭐<a href="https://github.com/paradigmxyz/reth">reth</a></li>
         <li>⚡<a href="https://github.com/rust-bitcoin/rust-bitcoin">rust-bitcoin </a> </li>
-        <li> &nbsp; ₿ <a href="https://github.com/Davidson-Souza/Floresta"> Floresta </a> </li>
+
 
 </ul>
 </p>
